@@ -1,21 +1,15 @@
 # Assem Ramazanova
 
----
-
 ## Junior Frontend Developer
 
 ---
 
 ## Contacts
 
----
-
 - Location: Astana, Kazakhstan
 - Phone: +77018861220
 - Email: assem.ramazanova@gmail.com
-- Github: [https://github.com/AssemRamazanova]
-
----
+- Github: [https://github.com/AssemRamazanova](AssemRamazanova)
 
 ## About me
 
